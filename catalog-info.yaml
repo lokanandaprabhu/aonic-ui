@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aonic-ui
+  annotations:
+    github.com/project-slug: lokanandaprabhu/aonic-ui
+spec:
+  type: other
+  owner: lokanandaprabhu
+  lifecycle: unknown
